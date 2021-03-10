@@ -63,5 +63,5 @@ ul{
 }
 
 .navbar__links a:hover{
-    color: #ffc500;
+    color: var(--color-primary); 
 }
